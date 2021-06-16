@@ -1,0 +1,7 @@
+.cache
+.env
+.git
+__pycache__/
+env/
+load_test/
+.vscode/
